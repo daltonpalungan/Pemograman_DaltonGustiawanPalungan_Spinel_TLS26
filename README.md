@@ -1,1 +1,1 @@
-# Pemograman_DaltonGustiawanPalungan_Spinel_TLS26
+Tugas pemograman dasar TLS, Dalton Gustiawan Palungan, Kelompok Spinel
